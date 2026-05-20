@@ -1,4 +1,4 @@
-# Contributing Guide
+# Contributing Guide 
 
 - [How to?](#how-to)
 - [Stream Description Scheme](#stream-description-scheme)
