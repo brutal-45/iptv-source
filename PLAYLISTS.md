@@ -4,7 +4,7 @@ There are several versions of playlists that differ in the way they are grouped.
 
 ### Grouped by category
 
-Playlists in which channels are grouped by category.
+Playlists in which channels are grouped by category. 
 
 <details>
 <summary>Expand</summary>
