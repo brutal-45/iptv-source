@@ -3,7 +3,7 @@
 Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. 
 
 ## Table of contents
-
+ 
 - 🚀 [How to use?](#how-to-use)
 - 📺 [Playlists](#playlists)
 - 🗓 [EPG](#epg)
